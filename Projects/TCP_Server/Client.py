@@ -28,4 +28,4 @@ class Client:
             print("\033[1;31;40m" + "Server: " + client_message + "\033[0m")
 
     
-Client('127.0.0.1', 7632)
+Client('127.0.0.1', 2025)
