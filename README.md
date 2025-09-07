@@ -20,7 +20,7 @@ A simple client–server chat system for learning **socket programming** and **m
 - **Client** – connects to the server and enables real-time two-way messaging.  
 - **Tech** – Python `socket` + `threading`  
 
-👉 [View Project](./TCP_Chat_Server)  
+👉 [View Project](./Projects/TCP_Server)  
 
 ---
 
